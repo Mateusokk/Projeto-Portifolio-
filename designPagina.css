@@ -1,10 +1,16 @@
-
+body {
+    font-family: Arial, sans-serif;
+    margin: 10;
+    padding: 10;
+    background-color: #7C00F0;
+    color: #000;
+}
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: white;
+    background-color: #7C00F0;
 }
 li a {
  display: block;
